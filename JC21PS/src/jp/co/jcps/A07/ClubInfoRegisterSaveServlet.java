@@ -17,6 +17,7 @@ import jp.co.jcps.Common.Validation;
 
 /**
  * 部活情報登録画面のコントローラー
+ * aaa
  */
 @WebServlet("/ClubInfoRegisterSave")
 public class ClubInfoRegisterSaveServlet extends HttpServlet {

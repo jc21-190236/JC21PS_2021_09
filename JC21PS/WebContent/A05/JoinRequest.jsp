@@ -11,7 +11,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>部活動管理システム</title>
+<title>部活動管理システムa</title>
 <style type="text/css">
 	th {
 		background-color: #add8e6;
